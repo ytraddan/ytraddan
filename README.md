@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ytraddan
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Spring FrameWork
-- 💞️ I’m looking to collaborate on Challenging Projects 
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m currently learning Spring Framework
+- 💞️ I’m looking to collaborate on Challenging projects 
 - 📫 How to reach me - 1nightshelter@gmail.com
 
 <!---
