@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ytraddan
-- 👀 I’m interested in Web Apps
+- 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Spring FrameWork
 - 💞️ I’m looking to collaborate on Challenging Projects 
 - 📫 How to reach me - 1nightshelter@gmail.com
